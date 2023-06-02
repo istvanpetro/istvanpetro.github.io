@@ -2,8 +2,9 @@
 ![IMG_20221222_174725_2](https://github.com/istvanpetro/istvanpetro/assets/115212178/e2ae08fe-56a5-464f-81d5-7c3111563532)
 
 # Hi, my name is István!
+- This is my initial personal website.
 
-## 🔭 I worked as manager in a machining company for 14 years, first as a QUALITY MANAGER and then as a PLANT MANAGER.
+## 🔭 Some info about me:
   - I have MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
   - I speak ENGLISH (C1) and HUNGARIAN (as main language)
 
