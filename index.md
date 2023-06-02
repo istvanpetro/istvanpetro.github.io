@@ -57,14 +57,14 @@
 <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
 </ul>
 
-# 🚀 Projects:
+## 🚀 Projects:
 <ul>
 <li><a href="https://istvanpetro.github.io/HelloWorld/">Hello World Project</a><li>
 </ul>
 
-## 💌 My Blog:
+## 😉 My Blog:
 <ul>
-{% for post in site.post %}
+{% for post in site.posts %}
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
