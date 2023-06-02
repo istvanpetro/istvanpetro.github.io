@@ -1,5 +1,3 @@
-# istvanpetro.github.io
-Personal website
 
 ![IMG_20221222_174725_2](https://github.com/istvanpetro/istvanpetro/assets/115212178/e2ae08fe-56a5-464f-81d5-7c3111563532)
 
