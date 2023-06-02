@@ -3,12 +3,11 @@
 
 # Hi, my name is István!
 
-## - 🔭 I worked as manager in a machining company for 14 years, first as a QUALITY MANAGER and then as a PLANT MANAGER.
+## 🔭 I worked as manager in a machining company for 14 years, first as a QUALITY MANAGER and then as a PLANT MANAGER.
   - I have MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
   - I speak ENGLISH (C1) and HUNGARIAN (as main language)
-#
 
-## - 🌱 I’m currently learning PYTHON and I plan TO CHANGE MY CAREER in this direction.
+## 🌱 I’m currently learning PYTHON and I plan TO CHANGE MY CAREER in this direction.
 ### I have learned from these BOOKS:
   - Shovic, Simpson - PYTHON all-in-one for dummies
   - Blum - PHP, MySQL, & JavaScript for dummies
@@ -41,9 +40,8 @@
   - turtle
   - django
   - ...
-#
 
-## - ⚡ My main areas of interest are:
+## My main areas of interest are:
   - robotics,
   - virtual personal assistant,
   - production support computer systems,
@@ -51,7 +49,6 @@
   - logistics computer systems,
   - speech recognition systems,
   - artificial intelligence
-#
 
 ## - 📫 How to reach me: istvan.petro.code@gmail.com
 
