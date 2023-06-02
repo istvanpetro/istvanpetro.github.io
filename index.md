@@ -51,8 +51,22 @@
   - speech recognition systems,
   - artificial intelligence
 
-## - 📫 How to reach me: istvan.petro.code@gmail.com
+## 📫 How to reach me: istvan.petro.code@gmail.com
 
 <ul>
 <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+</ul>
+
+# 🚀 Projects:
+<ul>
+<li><a href="https://istvanpetro.github.io/HelloWorld/">Hello World Project</a><li>
+</ul>
+
+## 💌 My Blog:
+<ul>
+{% for post in site.post %}
+<li>
+<a href="{{ post.url }}">{{ post.title }}</a>
+</li>
+{% endor %}
 </ul>
