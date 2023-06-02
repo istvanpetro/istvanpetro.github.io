@@ -2,6 +2,7 @@
 
 # Hi, my name is István!
 - This is my initial personal website.
+- I would like to publish here my projects. 🙂
 
 ## 🔭 Some info about me:
   - I have MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
