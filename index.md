@@ -68,5 +68,5 @@
 <li>
 <a href="{{ post.url }}">{{ post.title }}</a>
 </li>
-{% endor %}
+{% endfor %}
 </ul>
