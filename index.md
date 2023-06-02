@@ -52,3 +52,7 @@
   - artificial intelligence
 
 ## - 📫 How to reach me: istvan.petro.code@gmail.com
+
+<ul>
+<li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+</ul>
