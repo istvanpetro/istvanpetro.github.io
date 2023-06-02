@@ -58,6 +58,7 @@
 </ul>
 
 ## 🚀 Projects:
+
 <ul>
 <li><a href="https://istvanpetro.github.io/HelloWorld/">Hello World Project</a><li>
 </ul>
