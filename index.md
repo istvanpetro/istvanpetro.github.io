@@ -14,7 +14,7 @@
 #
 #
 
-## 🌱 I’m currently learning COMPUTER PROGRAMMING.
+# 🌱 I’m currently learning COMPUTER PROGRAMMING.
 
 ### PYTHON books I learned from:
   - Shovic, Simpson - PYTHON all-in-one for dummies
