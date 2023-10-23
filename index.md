@@ -3,18 +3,18 @@
 # Hi, my name is István!
 
 # My career:
-## 🔭 I have 14 years of experience as manager in a CNC machining factory:
+## I have 14 years of experience as manager in a CNC machining factory:
   - QUALITY MANAGER (7 years - Quality Management, Customer relations, Quality Control Team, Measuring devices)
   - PLANT MANAGER (7 years - Human Resource & Maintenance management: factory buildings and utilities, CNC machines, all other machines, new machines, project leading, security team)
 #
 
-# My Degree and Language level:
+## My Degree and Language level:
   - MECHANICAL ENGINEER (MSc) degree in manufacturing automation and mechanical informatics.
   - ENGLISH (C1) and HUNGARIAN (as main language)
 #
 #
 
-# 🌱 I’m currently learning COMPUTER PROGRAMMING.
+# I’m currently learning COMPUTER PROGRAMMING.
 
 ### PYTHON books I learned from:
   - Shovic, Simpson - PYTHON all-in-one for dummies
@@ -76,7 +76,7 @@
   - logistics computer systems,
   - speech recognition systems,
   - artificial intelligence,
-  - web delevopment
+  - web development
 #
 
 ## - 📫 How to reach me: istvan.petro.code@gmail.com
